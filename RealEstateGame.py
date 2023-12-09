@@ -1,5 +1,5 @@
-# Author: Ashwini Chawla
-# GitHub username: ashwinichawla
+# Author: Lara Priscilla Anderson
+# GitHub username: larapriscillaanderson
 # Date: 5/30/2022
 # Description: Python program that simulates a monopoly style board game.
 
